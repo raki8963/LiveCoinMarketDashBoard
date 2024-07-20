@@ -10,5 +10,6 @@ Follow Below commands
 3. Open new Terminal
 4. cd livecoinmarketplace
 5. npm start
-   ![image](https://github.com/user-attachments/assets/aa04865a-5ff8-4fd1-897f-660b32978abd)
+![Screenshot (15)](https://github.com/user-attachments/assets/514e9178-d121-44d9-9020-e4fda6b8cbd3)
+
 
